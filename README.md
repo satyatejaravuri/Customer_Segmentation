@@ -70,6 +70,7 @@ After the data cleaning process, exploratory analysis on the dataset is performe
 **New South Wales has the largest number of people who donot own a car.
 **In Victoria the proportion is quite even.
 **In Queensland the number of people owning a car is greater than who donot have a car.
+![Car Owners by State](https://github.com/satyatejaravuri/Customer_Segmentation/assets/31037816/e66fff66-04f0-4b5a-b356-9102ffefecbd)
 
 #3. RFM Analysis and Customer Segmentation
 In this stage of analysis the customer segmentation was done by developing an RFM Model. The RFM (Recency, Frequency, Monetary) analysis is a behavior-based approach grouping customers into segments. It groups the customers on the basis of their previous purchase transactions.

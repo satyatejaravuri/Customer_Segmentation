@@ -66,7 +66,7 @@ After the data cleaning process, exploratory analysis on the dataset is performe
 
 | Old Customers by Age Distribution	 | New Customers by Age Distribution| 
 | :-------- | :------- |
-| `id`      | `string` | 
+| ![Old Customers Age Distribution](https://github.com/satyatejaravuri/Customer_Segmentation/assets/31037816/97587cd5-b28f-42b8-b7b2-2b4797780f98)| `string` | 
 
 
 

@@ -54,26 +54,37 @@ After the data cleaning process, exploratory analysis on the dataset is performe
      * The lowest number of customers for both the types of customers is present in the age bracket under 20 and above 80 age groups.
      * The automobile company is popular among New Customers among the age groups 20-29 and 40-49.
      * A steep drop in customers is observed in the 30-39 age group among the New Customers
+ 
+
+| Old Customers by Age Distribution | New Customers by Age Distribution     | 
+| :-------- | :------- | 
+| ![Old Customers Age Distribution](https://github.com/satyatejaravuri/Customer_Segmentation/assets/31037816/97587cd5-b28f-42b8-b7b2-2b4797780f98)      | ![New Customers Age Distribution](https://github.com/satyatejaravuri/Customer_Segmentation/assets/31037816/7db6ed2a-b001-4207-902b-b59761c71938) | 
+
+
 
 * ### Bike purchases over last 3 years by Gender
     * Most bike puechases are done by Feamale over the last 3 years. Approximately 51% of the bike purchases are done by Female compared to 49% of the purchases being done by Male.
-    * The Female purchases are 10,000 more than that of Male purchases (numerically).
+    * The Female purchases are 10,000 more than that of Male purchases (numerically
+![Female vs Male Bike Purchases](https://github.com/satyatejaravuri/Customer_Segmentation/assets/31037816/c2cd48ec-fafb-4298-b343-1c89d80800fc)
 
 * ### New vs Old Customers Job Industry Distribution
    * Most New customers are from the Manufacturing and Financial Services sector (approx 20% of the New Customers).
    * The lowest number of customers are from the Agriculture and Telecom sector approx 3%.
    * Similar trend is observed among Old Customers as well.
-
-| Old Customers by Age Distribution	 | New Customers by Age Distribution| 
-| :-------- | :------- |
-| ![Old Customers Age Distribution](https://github.com/satyatejaravuri/Customer_Segmentation/assets/31037816/97587cd5-b28f-42b8-b7b2-2b4797780f98)| `string` | 
-
+ 
+| Old Customers by Job Industry	 | New Customers by Job Industry     | 
+| :-------- | :------- | 
+| ![Old Customers Age Distribution](https://github.com/satyatejaravuri/Customer_Segmentation/assets/31037816/75534639-2537-4788-8b95-77e3b5461d21)      | ![New Customers Job Industry](https://github.com/satyatejaravuri/Customer_Segmentation/assets/31037816/ab140391-50e5-4f0d-a9fc-da34ff88c657) | 
 
 
 * ### Wealth Segmentation by Age Category
    * Across all age categories the largest number of customers are from 'Mass Customer' Segment
    * The next category comes from the 'High Net Worth' customers.
    *In the age group 40-49, Affluent segment out performs the High Net Worth customers in terms of number of customers.
+
+| Old Customers Wealth by Age Group | New Customers Wealth by Age Group     | 
+| :-------- | :------- | 
+| ![Old Customers Wealth Segment](https://github.com/satyatejaravuri/Customer_Segmentation/assets/31037816/83e5e79d-5bbe-4643-96fd-4458bc3ae35b)      | ![New Customer Wealth Segment](https://github.com/satyatejaravuri/Customer_Segmentation/assets/31037816/c83abe36-4151-468a-b85f-b1c8f3a83396) | 
 
 * ### Cars owned by States
    * New South Wales has the largest number of people who donot own a car.
@@ -101,14 +112,21 @@ In this analysis the customer segment was divided into 11 groups. The groups bei
 
 As of the current state of the Automobile business the current distribution of customers segments is depicted below:
 
+![Customer Segment Distribution](https://github.com/satyatejaravuri/Customer_Segmentation/assets/31037816/6f3f3087-0431-424f-9461-4605fe237b09)
+
+
 ## 4. RFM Analysis: Scatter Plots
 ## Recency vs Monetary :
 
 The visualization shows that recent customers have purchased more products and generated relatively more revenue than the customers who visited a while ageo.
 
+![Recency vs Monetary](https://github.com/satyatejaravuri/Customer_Segmentation/assets/31037816/8c144e50-4786-4a36-a12b-d77bacb7588e)
+
 
 ## Frequency vs Monetary :
 The visualization shows that customers belonging to Platinum/ Very Loyal/ Becoming Loyal Customer Segments have a greater frequency and generate greater monetary for the business
+
+![Frequency vs Monetary](https://github.com/satyatejaravuri/Customer_Segmentation/assets/31037816/d49906d0-7227-4b0b-9e26-e112ac24e6ed)
 
 # Datasets Used
 The datasets used include:

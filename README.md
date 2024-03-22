@@ -2,9 +2,9 @@
 In this project, a RFM model is implemented to relate to customers in each segment. Assessed the Data Quality, performed EDA using Python and created Dashboard using Power BI
 
 
-## Data Analytics Customer Segmentation
+### Data Analytics Customer Segmentation
 
-### Goal of the project
+##### Goal of the project
 
 The purpose of this project is to conduct a Customer Segmentation Analysis for an Automobile bike Company. Customer segmentation is performed by developing a RFM Model. RFM (Recency, Frequency, Monetary) analysis is a behavior-based approach grouping customers into segments. It groups the customers on the basis of their previous purchase transactions. In this analysis the customer segment was divided into 11 groups. The analysis will help in determining which customers segments should be targeted in order to enhance sales revenue for the company. A Sales Dashboard for Customer Segmentation is developed using power bi and the data quality assessment and analysis is done using Python.
 
@@ -128,13 +128,25 @@ The visualization shows that customers belonging to Platinum/ Very Loyal/ Becomi
 
 ![Frequency vs Monetary](https://github.com/satyatejaravuri/Customer_Segmentation/assets/31037816/d49906d0-7227-4b0b-9e26-e112ac24e6ed)
 
-# Datasets Used
+## Datasets Used
 The datasets used include:
 
-* ##  Raw_data.xlsx:## This excel file dataset included the following sheets of data:
-    * Transactions_data.xlsx: This dataset included the transactions data of the customers across all the different states in Australia.
-    * NewCustomerList.xlsx: This dataset included the new customers who visted the automobile bike company recently.
-    * CustomerDemographic.xlsx: This dataset included entire details of the Customer Demographics.
-    * CustomerAddress.xlsx: This dataset included the address of the Customers.
+* ## # Raw_data.xlsx:## This excel file dataset included the following sheets of data:
+    * #### Transactions_data.xlsx:
+       This dataset included the transactions data of the customers across all the different states in Australia.
+    * #### NewCustomerList.xlsx:
+      This dataset included the new customers who visted the automobile bike company recently.
+    * #### CustomerDemographic.xlsx:
+        This dataset included entire details of the Customer Demographics.
+    * #### CustomerAddress.xlsx:
+        This dataset included the address of the Customers.
 
 
+
+# Tools and Technologies used
+he tools used in this project include:
+
+* #### Python -
+  This was needed to conduct Data Quality Assessment and also for Data Cleaning processes. With Python libraries pandas, matplotlib, seaborn exploratory data analysis of the datasets and to gain useful insights from the data was possible.
+* #### Power Bi -
+   This Business Intelligence tool was required to explore data and create charts, graphs, visualizations to come up with a Sales Dashboard for Customer Segmenatation for the automobile bike company. The Tableau Sales Dashboard can be found here

@@ -1,5 +1,7 @@
 # Customer_Segmentation
 In this project, a RFM model is implemented to relate to customers in each segment. Assessed the Data Quality, performed EDA using Python and created Dashboard using Power BI
+
+
 ##Data Analytics Customer Segmentation
 #Goal of the project
 The purpose of this project is to conduct a Customer Segmentation Analysis for an Automobile bike Company. Customer segmentation is performed by developing a RFM Model. RFM (Recency, Frequency, Monetary) analysis is a behavior-based approach grouping customers into segments. It groups the customers on the basis of their previous purchase transactions. In this analysis the customer segment was divided into 11 groups. The analysis will help in determining which customers segments should be targeted in order to enhance sales revenue for the company. A Sales Dashboard for Customer Segmentation is developed using power bi and the data quality assessment and analysis is done using Python.

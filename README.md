@@ -12,6 +12,9 @@ The purpose of this project is to conduct a Customer Segmentation Analysis for a
 
 The Sales Dashboard for Customer Segmentation can be found here.
 
+![Screenshot (8)1](https://github.com/satyatejaravuri/Customer_Segmentation/assets/31037816/ff7d1bba-177f-407a-acab-332ccd642552)
+
+
 # Analysis Approach
 
 # 1. Data Quality Assessment and Data Cleaning
